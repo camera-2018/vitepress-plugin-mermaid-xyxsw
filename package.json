@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camera-2018/vitepress-plugin-mermaid.git"
+    "url": "git+https://github.com/camera-2018/vitepress-plugin-mermaid-xyxsw.git"
   },
   "files": [
     "dist"
@@ -32,10 +32,6 @@
   ],
   "author": "Emerson Bottero",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/camera-2018/vitepress-plugin-mermaid/issues"
-  },
-  "homepage": "https://github.com/camera-2018/vitepress-plugin-mermaid#readme",
   "peerDependencies": {
     "mermaid": "10",
     "vitepress": "^0.21.6 || ^1.0.0 || ^1.0.0-alpha"

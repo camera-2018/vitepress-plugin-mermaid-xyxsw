@@ -1,6 +1,6 @@
 {
   "name": "vitepress-plugin-mermaid-xyxsw",
-  "version": "2.10.13",
+  "version": "2.11.13",
   "description": "Add mermaid support for Vitepress",
   "types": "./dist/index.d.ts",
   "scripts": {
